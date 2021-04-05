@@ -1,0 +1,1 @@
+Aqui está o resultado: Conteúdo de text do arquivo first.txt, Conteúdo de text do arquivo second.txt

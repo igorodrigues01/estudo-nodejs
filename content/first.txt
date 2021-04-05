@@ -1,0 +1,1 @@
+Conteúdo de text do arquivo first.txt
